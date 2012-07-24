@@ -6,25 +6,25 @@ This repository contains a helpful set of classes to connect to and interact wit
 
 ## Usage
 	
-1. import the lib
+To import the lib
     from lib import client
 
-2. create an instance
+To create an instance
     myclient = client.ReferlyAPI(KEY, SECRET)
 
-3. create an account 
+To create an account 
     myclient.create_account(r'foobar@gmail.com')
 
-4. list links
+To list links
     myclient.list_links()
 
-5. create a link
+To create a link
     myclient.create_link(r'http://refer.ly')
 
-6. list rewards
+To list rewards
     myclient.list_rewards()
 
-7. add a reward
+To add a reward
     myclient.add_reward('12345', 1.00, '2012-06-01', '2012-08-01')
 
 ## Example
