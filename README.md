@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Referly -- A python wrapper of referly REST API
+#Referly -- A python wrapper of referly REST API#
 =======
 
 ##Usage##
@@ -27,9 +26,3 @@ Referly -- A python wrapper of referly REST API
 
 ##Example##
 see example.py
-=======
-referly
-=======
-
-A python wrapper of referly REST API
->>>>>>> 3b45b28c58f67e81c4fd10a1690d3952f698f702
