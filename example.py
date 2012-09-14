@@ -1,4 +1,4 @@
-from lib import client
+from referly import client
 
 KEY = r'12345'
 SECRET = r'abcde'
